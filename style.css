@@ -1,0 +1,41 @@
+h1 {
+    color:"7A0099"
+    text-align:center;
+ }
+ img {
+    display: block;
+    width: 400px;;
+    left: auto;
+    float: left;
+  } 
+  ol{
+    list-style-type:decimal;
+  float: left;
+  left:auto;
+  margin-left: 400px;
+}
+  ul{
+ list-style-type:none;
+ margin: 0;
+ padding:0;
+  }
+  li{
+    display: inline;
+    margin: 0 5px;
+    color:"#444444";
+    
+  }
+  
+  body{
+   background-color: darkgray;
+  }
+h2{
+  text-align: center;
+}
+
+div{
+  nav-left: auto;
+}
+.yeşil{
+  color: darkolivegreen;
+}
